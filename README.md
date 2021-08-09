@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**GMoreira-Tro/GMoreira-Tro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
   # Virtual Reality
   # Unity
@@ -25,4 +20,3 @@ Here are some ideas to get you started:
   # apache attack helicopter
 - ⚡ Fun fact: ...
   # DDiemer is my senpai <3
--->

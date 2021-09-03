@@ -16,7 +16,8 @@
 - 💓 I really love ...
   # 🎮 Games (specially Hack'n Slash)
   # Hashs (dictionaries <3)
+  # My girlfriend
 - 😄 Pronouns: ...
   # apache attack helicopter
 - ⚡ Fun fact: ...
-  # DDiemer is my senpai <3
+  # DDiemmer is my senpai <3

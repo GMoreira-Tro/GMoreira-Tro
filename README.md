@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
-  # Virtual Reality
-  # Unity
-  # C#
+  # Software Quality
+  # Node.js
 - 🌱 I’m currently learning ...
   # Digital games
   # Computer science
@@ -13,11 +12,3 @@
   # C++
   # Python
   # Japanese
-- 💓 I really love ...
-  # 🎮 Games (specially Hack'n Slash)
-  # Hashs (dictionaries <3)
-  # Me :3
-- 😄 Pronouns: ...
-  # apache attack helicopter
-- ⚡ Fun fact: ...
-  # DDiemmer is my senpai <3
